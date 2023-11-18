@@ -1,2 +1,2 @@
 # texts-analyzer
-Uses sentiment analysis to predict the emotional state of a text and interpret subtlety for emotionally unaware texters.
+Uses sentiment analysis to predict whether the other user finds the conversation positive, neutral, or negative.
